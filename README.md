@@ -57,4 +57,6 @@ project link(github repository) -
 - Bootstrap
 - JavaScript
 
-It’s important to add screenshots, project link, and azure technologies in readme file.
+# Privacy Policies
+
+https://www.freeprivacypolicy.com/live/c288410a-381a-4c24-b355-2d2a80b1806a
