@@ -7,7 +7,7 @@ This is a web based application developed for health related based website in in
 
 **Project Link** - https://happy-ocean-00efcec00.2.azurestaticapps.net
 
-**project demo video link** - 
+**project demo video link** - https://youtu.be/u0ZbjEAFFjU
 
 project link(github repository) - 
 
