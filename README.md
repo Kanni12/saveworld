@@ -49,6 +49,10 @@ project link(github repository) - https://github.com/SaiGaneshChimmiri/frtprojec
 
 ![Screenshot (45)](https://user-images.githubusercontent.com/114677937/205969486-88b6a9e6-1149-4527-a52f-c109951739cf.png)
 
+### Work Flow -
+
+![Screenshot (46)](https://user-images.githubusercontent.com/114677937/205971628-e6b69ff4-a652-4b4f-b91b-8bb7103625b1.png)
+
 ### Project Dashbord -
 
 ![Screenshot (39)](https://user-images.githubusercontent.com/114677937/205969330-24c0fa1b-4723-4d56-ba20-ea6279b1e181.png)
